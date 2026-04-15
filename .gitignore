@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/backend/.vs/DocuMind.slnx
+/backend/src/DocuMind.Api/bin/Debug/net10.0
+/backend/src/DocuMind.Api/obj
+/documind_implementation_guide.pdf
